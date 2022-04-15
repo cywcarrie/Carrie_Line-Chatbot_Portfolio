@@ -5,7 +5,7 @@
 
 
 
-# 1) User Infromation
+# 1) User Information
 ![](https://github.com/cywcarrie/Carrie_Line-Chatbot_Portfolio/blob/main/IMG_3078.png)
 
 # 2) Search for tourist attraction 
