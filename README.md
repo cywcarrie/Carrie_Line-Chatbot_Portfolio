@@ -6,15 +6,15 @@
 
 
 # 1) User Information
-[image](https://i.imgur.com/4Afr2gd.png)
+[Link to image](https://i.imgur.com/4Afr2gd.png)
 
 # 2) Search for tourist attraction 
-[image](https://i.imgur.com/sF3Zz7T.png)
+[Link to image](https://i.imgur.com/sF3Zz7T.png)
 
 # 3) Searn the weather conditions of tourist attraction 
-[image](https://i.imgur.com/sbm4PxF.png)
+[Link to image](https://i.imgur.com/sbm4PxF.png)
 
 # 4) Other Infromation
-[image](https://i.imgur.com/Kcs7yWR.png)
+[Link to image](https://i.imgur.com/Kcs7yWR.png)
 
 
