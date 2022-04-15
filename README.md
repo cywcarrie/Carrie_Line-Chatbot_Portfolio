@@ -6,15 +6,15 @@
 
 
 # 1) User Information
-![](https://i.imgur.com/sF3Zz7T.png)
+![](https://i.imgur.com/4Afr2gd.png)
 
 # 2) Search for tourist attraction 
-![](https://github.com/cywcarrie/Carrie_Line-Chatbot_Portfolio/blob/main/IMG_3077.png)
+![](https://i.imgur.com/sF3Zz7T.png)
 
 # 3) Searn the weather conditions of tourist attraction 
-![](https://github.com/cywcarrie/Carrie_Line-Chatbot_Portfolio/blob/main/IMG_3073%20(7).png)
+![](https://i.imgur.com/sbm4PxF.png)
 
 # 4) Other Infromation
-![](https://github.com/cywcarrie/Carrie_Line-Chatbot_Portfolio/blob/main/IMG_3079.png)
+![](https://i.imgur.com/Kcs7yWR.png)
 
 
