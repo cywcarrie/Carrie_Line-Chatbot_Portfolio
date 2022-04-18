@@ -1,5 +1,5 @@
 # Go Bike
-**This line chatbot application is suitable for someone who ride bike and it provides the weather conditions of tourist attractions in Taiwan. It also provides the list of tourist attractions to see by bike in Taiwan. In addition, it provides bike and travel websites of some cities in Taiwan.**
+**This line chatbot application is suitable for someone who ride bike and it provides the weather conditions of tourist attractions in Taiwan. It also provides the lists of tourist attractions to see by bike in Taiwan. In addition, it provides bike and travel websites of some cities in Taiwan.**
 
 
 # 1) User Information
