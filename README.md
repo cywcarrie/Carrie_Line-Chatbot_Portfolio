@@ -3,15 +3,24 @@
 
 
 # 1) User Information
-[Link to image](https://i.imgur.com/EsYZIdY.png)
+[Link to image](https://i.imgur.com/9DeXQjq.jpg)
 
 # 2) Search for tourist attraction 
-[Link to image](https://i.imgur.com/is1sDm9.png)
+[Link to image](https://i.imgur.com/oMGM3Gq.png)
 
 # 3) Searn for the weather condition of tourist attraction 
-[Link to image](https://i.imgur.com/JQgQFqz.png)
+[Link to image](https://i.imgur.com/cR9lVg0.png)
 
-# 4) Other Information
-[Link to image](https://i.imgur.com/Wsgdxk8.png)
+# 4) Other Information about Cycling around Taiwan
+[Link to image](https://i.imgur.com/BbtvLBE.png)
+
+# 5) Other Information
+[Link to image](https://i.imgur.com/mcmM5Po.png)
+
+# 6) Map of Taiwan
+[Link to image](https://i.imgur.com/673WcjZ.png)
+
+# 7) Searn for the weather condition of city in Taiwan 
+[Link to image](https://i.imgur.com/fHXqkb9.png)
 
 
