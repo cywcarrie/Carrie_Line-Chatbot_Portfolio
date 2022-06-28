@@ -16,10 +16,7 @@
 # 4) Other Information
 [Link to image](https://i.imgur.com/mcmM5Po.png)
 
-# 5) Map of Taiwan
-[Link to image](https://i.imgur.com/673WcjZ.png)
-
-# 6) Search for the weather condition of city in Taiwan 
+# 5) Search for the weather condition of city in Taiwan 
 [Link to image](https://i.imgur.com/fHXqkb9.png)
 
 # WH (Weather Helper)
