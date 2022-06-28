@@ -17,7 +17,7 @@
 [Link to image](https://i.imgur.com/mcmM5Po.png)
 
 # 5) Search for the weather condition of city in Taiwan 
-[Link to image](https://i.imgur.com/fHXqkb9.png)
+[Link to image](https://i.imgur.com/9aR6cTR.png)
 
 # WH (Weather Helper)
 **This line chatbot application provides the weather condition of cities and counties in Taiwan.**
