@@ -7,7 +7,7 @@
 # 1) Search for tourist attraction 
 [Link to image](https://i.imgur.com/oMGM3Gq.png)
 
-# 2) Searn for the weather condition of tourist attraction 
+# 2) Search for the weather condition of tourist attraction 
 [Link to image](https://i.imgur.com/cR9lVg0.png)
 
 # 3) Other Information about Cycling around Taiwan
@@ -28,7 +28,7 @@
 # 1) Use Information 
 [Link to image](https://i.imgur.com/2O1Pipx.png)
 
-# 2) Searn for the weather condition
+# 2) Search for the weather condition
 [Link to image](https://i.imgur.com/qjGUz8R.png)
 
 
