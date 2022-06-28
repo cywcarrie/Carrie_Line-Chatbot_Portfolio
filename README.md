@@ -23,7 +23,7 @@
 [Link to image](https://i.imgur.com/fHXqkb9.png)
 
 # WH (Weather Helper)
-** This line chatbot application provides the weather conditions of cities and counties in Taiwan.
+**This line chatbot application provides the weather conditions of cities and counties in Taiwan.**
 
 # 1) Use Information 
 [Link to image](https://i.imgur.com/2O1Pipx.png)
