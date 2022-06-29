@@ -5,7 +5,7 @@
 
 
 # 1) Search for tourist attraction 
-[Link to image](https://i.imgur.com/oMGM3Gq.png)
+[Link to image](https://i.imgur.com/Jzi4wqZ.png)
 
 # 2) Search for the weather condition of tourist attraction 
 [Link to image](https://i.imgur.com/cR9lVg0.png)
@@ -17,7 +17,7 @@
 [Link to image](https://i.imgur.com/mcmM5Po.png)
 
 # 5) Search for the weather condition of city in Taiwan 
-[Link to image](https://i.imgur.com/9aR6cTR.png)
+[Link to image](https://i.imgur.com/DYJYuNm.png)
 
 # WH (Weather Helper)
 **This line chatbot application provides the weather conditions of cities and counties in Taiwan.**
